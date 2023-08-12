@@ -1,3 +1,9 @@
+[![Awesome](images/awesome.svg)](https://github.com/sindresorhus/awesome)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/EthicalML/awesome-production-machine-learning/graphs/commit-activity)
+![GitHub](https://img.shields.io/badge/Languages-MULTI-blue.svg)
+![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
+[![GitHub](https://img.shields.io/twitter/follow/station10_uk.svg?label=Follow)](https://twitter.com/station10_uk)
+
 # awesome-marketing-machine-learning
 
 A curated list of awesome machine learning libraries for marketing. Inspired by both
