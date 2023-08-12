@@ -2,8 +2,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/EthicalML/awesome-production-machine-learning/graphs/commit-activity)
 ![GitHub](https://img.shields.io/badge/Languages-MULTI-blue.svg)
 ![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
-[![GitHub](images/twitter.png)](https://twitter.com/station10_uk)
-[![GitHub](images/linkedin.png)](https://www.linkedin.com/company/-station10-)
+[![GitHub](https://img.shields.io/twitter/follow/station10_uk.svg?label=Follow)](https://twitter.com/station10_uk)
 
 # awesome-marketing-machine-learning
 
