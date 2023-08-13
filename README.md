@@ -15,7 +15,7 @@ and created and maintained by [Station 10](https://station10.co.uk/).
 Note that some packages could fit into more than one section. This has been noted in the descriptions so be sure to Ctrl + F as well as exploring by
 sections.
 
-Want to contribute? Please raise a Pull Request or an issue. If you find this useful please drop a ⭐️. This helps motivate us and others to update and 
+Want to contribute? Please raise a Pull Request or an issue. If you find this useful please drop a ⭐️. This helps motivate us and others to update and
 maintain the list.
 
 All packages are Python based unless otherwise stated. We welcome contributions from R Users!
@@ -43,12 +43,15 @@ All packages are Python based unless otherwise stated. We welcome contributions 
  Causal Inference & Synthetic Control. Supports fitting with `scikit-learn` and `PyMC` models.
 * [dowhy](https://github.com/py-why/dowhy) ![Github Stars](https://img.shields.io/github/stars/py-why/dowhy.svg?style=social)
  Causal Inference that supports explicit modeling and testing of causal assumptions.
-* [SyntheticControlMethods](https://github.com/OscarEngelbrektson/SyntheticControlMethods) ![Github Stars](https://img.shields.io/github/stars/OscarEngelbrektson/SyntheticControlMethods.svg?style=social) Causal inference using Synthetic Control.
+* [SyntheticControlMethods](https://github.com/OscarEngelbrektson/SyntheticControlMethods) ![Github Stars](https://img.shields.io/github/stars/OscarEngelbrektson/SyntheticControlMethods.svg?style=social)
+ Causal inference using Synthetic Control.
 * [tfcausalimpact](https://github.com/WillianFuks/tfcausalimpact) ![Github Stars](https://img.shields.io/github/stars/WillianFuks/tfcausalimpact.svg?style=social)
  Google's [CausalImpact](https://github.com/google/CausalImpact) Algorithm implemented on top of [TensorFlow Probability](https://github.com/tensorflow/probability).
 
 ## Churn / CLV
 
+* [btyd](https://github.com/ColtAllen/btyd) ![Github Stars](https://img.shields.io/github/stars/ColtAllen/btyd.svg?style=social)
+ Buy Till You Die and CLV statistical models in Python. 
 * [lifetimes](https://github.com/CamDavidsonPilon/lifetimes) ![Github Stars](https://img.shields.io/github/stars/CamDavidsonPilon/lifetimes.svg?style=social)
  CLV and Churn modelling. Deprecated and incorporated into [pymc-marketing](https://github.com/pymc-labs/pymc-marketing).
 * [lucius-ltv](https://github.com/plexagon/lucius-ltv) ![Github Stars](https://img.shields.io/github/stars/plexagon/lucius-ltv.svg?style=social)
@@ -64,11 +67,11 @@ All packages are Python based unless otherwise stated. We welcome contributions 
 ## Geo Experimentation
 
 * [trimmed_match](https://github.com/google/trimmed_match) ![Github Stars](https://img.shields.io/github/stars/google/trimmed_match.svg?style=social)
-Ad effectiveness through the design and analysis of randomized Geo Experiments by Google.
+ Ad effectiveness through the design and analysis of randomized Geo Experiments by Google.
 * [matched_markets](https://github.com/google/matched_markets) ![Github Stars](https://img.shields.io/github/stars/google/matched_markets.svg?style=social)
-Time-Based regression matched markets approach for designing Geo Experiments by Google.
+ Time-Based regression matched markets approach for designing Geo Experiments by Google.
 * [GeoLift](https://github.com/facebookincubator/GeoLift) ![Github Stars](https://img.shields.io/github/stars/facebookincubator/GeoLift.svg?style=social)
-Geo Experimentation methodology based on Synthetic Control Methods used to measure lift of ad campaigns by Facebook.
+ Geo Experimentation methodology based on Synthetic Control Methods used to measure lift of ad campaigns by Facebook.
 
 ## Media / Marketing Mix Models
 
@@ -87,30 +90,38 @@ Geo Experimentation methodology based on Synthetic Control Methods used to measu
 * [Robyn](https://github.com/facebookexperimental/Robyn) ![Github Stars](https://img.shields.io/github/stars/facebookexperimental/Robyn.svg?style=social)
  (R) Bayesian Media Mix Models by Facebook.
 
-## Personalisation
+## Personalisation / Segmentation
 
 * [rfm](https://github.com/sonwanesuresh95/rfm) ![Github Stars](https://img.shields.io/github/stars/sonwanesuresh95/rfm.svg?style=social)
 RFM Analysis and Customer Segmentation.
 
-
 ## Recommendation Systems
+
+* [lightfm](https://github.com/lyst/lightfm) ![Github Stars](https://img.shields.io/github/stars/lyst/lightfm.svg?style=social)
+ Implementation of LightFM, a hybrid recommendation algorithm.
+* [openrec](https://github.com/ylongqi/openrec) ![Github Stars](https://img.shields.io/github/stars/ylongqi/openrec.svg?style=social) 
+ Open-source and modular library for neural network-inspired recommendation algorithms.
+* [recmetrics](https://github.com/statisticianinstilettos/recmetrics) ![Github Stars](https://img.shields.io/github/stars/statisticianinstilettos/recmetrics.svg?style=social)
+ A library of metrics for evaluating recommender systems
+* [recommenders](https://github.com/microsoft/recommenders) ![Github Stars](https://img.shields.io/github/stars/microsoft/recommenders.svg?style=social) 
+ Best Practices on Recommendation Systems by Microsoft.
+* [Surprise](https://github.com/NicolasHug/Surprise) ![Github Stars](https://img.shields.io/github/stars/NicolasHug/Surprise.svg?style=social)
+ Scikit for building and analyzing recommender systems that deal with explicit rating data.
 
 ## Time Series
 
 * [prophet](https://github.com/facebook/prophet) ![Github Stars](https://img.shields.io/github/stars/facebook/prophet.svg?style=social)
-Additive time series modelling by Facebook.
+  Additive time series modelling by Facebook.
 * [sktime](https://github.com/sktime/sktime) ![Github Stars](https://img.shields.io/github/stars/sktime/sktime.svg?style=social)
 A unified framework for ML with Time Eeries.
 * [statsforecast](https://github.com/Nixtla/statsforecast) ![Github Stars](https://img.shields.io/github/stars/Nixtla/statsforecast.svg?style=social)
-Lightning ⚡️ fast forecasting with statistical and econometric models.
+ Lightning ⚡️ fast forecasting with statistical and econometric models.
 * [temporian](https://github.com/google/temporian) ![Github Stars](https://img.shields.io/github/stars/google/temporian.svg?style=social)
-Temporian is an open-source Python library for preprocessing ⚡ and feature engineering 🛠 temporal data 📈 for machine learning applications 🤖.
+ Temporian is an open-source Python library for preprocessing ⚡ and feature engineering 🛠 temporal data 📈 for machine learning applications 🤖.
 
 ## Synthetic Control
 
 * [pysyncon](https://github.com/sdfordham/pysyncon) ![Github Stars](https://img.shields.io/github/stars/sdfordham/pysyncon.svg?style=social)
-Multiple Synthetic Control implementations.
+ Multiple Synthetic Control implementations.
 * [SparseSC](https://github.com/microsoft/SparseSC) ![Github Stars](https://img.shields.io/github/stars/microsoft/SparseSC.svg?style=social)
-Sparse Synthetic Control Models in Python by Microsoft.
-
-## APIs & Wrappers
+ Sparse Synthetic Control Models in Python by Microsoft.
