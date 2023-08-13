@@ -30,6 +30,8 @@ All packages are Python based unless otherwise stated. We welcome contributions 
  Heuristic and data driven Multi Touch Attribution.
 * [mta](https://github.com/eeghor/mta) ![Github Stars](https://img.shields.io/github/stars/eeghor/mta.svg?style=social)
  Various data driven Multi Touch Attribution algorithms.
+* [pychattr](https://github.com/jmwoloso/pychattr) ![Github Stars](https://img.shields.io/github/stars/jmwoloso/pychattr.svg?style=social)
+ Python implementation of the excellent R ChannelAttribution library.
 
 ## Causal Inference
 
@@ -84,6 +86,12 @@ Geo Experimentation methodology based on Synthetic Control Methods used to measu
  Bayesian Media Mix, Adstock, Saturation Customer Lifetime Value & Churn models.
 * [Robyn](https://github.com/facebookexperimental/Robyn) ![Github Stars](https://img.shields.io/github/stars/facebookexperimental/Robyn.svg?style=social)
  (R) Bayesian Media Mix Models by Facebook.
+
+## Personalisation
+
+* [rfm](https://github.com/sonwanesuresh95/rfm) ![Github Stars](https://img.shields.io/github/stars/sonwanesuresh95/rfm.svg?style=social)
+RFM Analysis and Customer Segmentation.
+
 
 ## Recommendation Systems
 
