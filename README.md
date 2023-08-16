@@ -90,7 +90,7 @@ All packages are Python based unless otherwise stated. We welcome contributions 
 * [Robyn](https://github.com/facebookexperimental/Robyn) ![Github Stars](https://img.shields.io/github/stars/facebookexperimental/Robyn.svg?style=social)
  (R) Bayesian Media Mix Models by Facebook.
 
-## Personalisation / Segmentation
+## Personalisation / Segmentation
 
 * [rfm](https://github.com/sonwanesuresh95/rfm) ![Github Stars](https://img.shields.io/github/stars/sonwanesuresh95/rfm.svg?style=social)
  RFM Analysis and Customer Segmentation.
