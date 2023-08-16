@@ -93,7 +93,9 @@ All packages are Python based unless otherwise stated. We welcome contributions 
 ## Personalisation / Segmentation
 
 * [rfm](https://github.com/sonwanesuresh95/rfm) ![Github Stars](https://img.shields.io/github/stars/sonwanesuresh95/rfm.svg?style=social)
-RFM Analysis and Customer Segmentation.
+ RFM Analysis and Customer Segmentation.
+* [retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) ![Github Stars](https://img.shields.io/github/stars/retentioneering/retentioneering-tools.svg?style=social)
+ Retentioneering: product analytics, data-driven customer journey map optimization, marketing analytics, web analytics, transaction analytics, graph visualization, and behavioral segmentation 
 
 ## Recommendation Systems
 
