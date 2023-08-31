@@ -121,6 +121,13 @@ A unified framework for ML with Time Eeries.
 * [temporian](https://github.com/google/temporian) ![Github Stars](https://img.shields.io/github/stars/google/temporian.svg?style=social)
  Temporian is an open-source Python library for preprocessing ⚡ and feature engineering 🛠 temporal data 📈 for machine learning applications 🤖.
 
+## Survival Analysis
+
+* [lifelines](https://github.com/CamDavidsonPilon/lifelines) ![Github Stars](https://img.shields.io/github/stars/CamDavidsonPilon/lifelines.svg?style=social)
+ lifelines is a pure Python implementation of the best parts of survival analysis..
+* [scikit-survival](https://github.com/sebp/scikit-survival) ![Github Stars](https://img.shields.io/github/stars/sebp/scikit-survival.svg?style=social)
+ Survival analysis built on top of scikit-learn.
+
 ## Synthetic Control
 
 * [pysyncon](https://github.com/sdfordham/pysyncon) ![Github Stars](https://img.shields.io/github/stars/sdfordham/pysyncon.svg?style=social)
