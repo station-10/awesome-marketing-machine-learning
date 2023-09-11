@@ -28,10 +28,16 @@ All packages are Python based unless otherwise stated. We welcome contributions 
  Data driven MTA by Google.
 * [Marketing-Attribution-Models](https://github.com/DP6/Marketing-Attribution-Models) ![Github Stars](https://img.shields.io/github/stars/DP6/Marketing-Attribution-Models.svg?style=social)
  Heuristic and data driven Multi Touch Attribution.
+* [markov-chain-attribution](https://github.com/jerednel/markov-chain-attribution) ![Github Stars](https://img.shields.io/github/stars/jerednel/markov-chain-attribution.svg?style=social)
+ Leverages a first order Markov chain to reallocate conversions.
 * [mta](https://github.com/eeghor/mta) ![Github Stars](https://img.shields.io/github/stars/eeghor/mta.svg?style=social)
  Various data driven Multi Touch Attribution algorithms.
 * [pychattr](https://github.com/jmwoloso/pychattr) ![Github Stars](https://img.shields.io/github/stars/jmwoloso/pychattr.svg?style=social)
  Python implementation of the excellent R ChannelAttribution library.
+* [shapley](https://github.com/hartmann-lars/shapley) ![Github Stars](https://img.shields.io/github/stars/hartmann-lars/shapley.svg?style=social)
+ Shapley Values For Attribution Modelling.
+* [shapley-attribution-model-zhao-naive](https://github.com/ianchute/shapley-attribution-model-zhao-naive) ![Github Stars](https://img.shields.io/github/stars/ianchute/shapley-attribution-model-zhao-naive.svg?style=social)
+ Shapley Value Methods for Attribution Modeling (Naive, Set-based).
 
 ## Causal Inference
 
@@ -121,9 +127,20 @@ A unified framework for ML with Time Eeries.
 * [temporian](https://github.com/google/temporian) ![Github Stars](https://img.shields.io/github/stars/google/temporian.svg?style=social)
  Temporian is an open-source Python library for preprocessing ⚡ and feature engineering 🛠 temporal data 📈 for machine learning applications 🤖.
 
+## Survival Analysis
+
+* [lifelines](https://github.com/CamDavidsonPilon/lifelines) ![Github Stars](https://img.shields.io/github/stars/CamDavidsonPilon/lifelines.svg?style=social)
+ lifelines is a pure Python implementation of the best parts of survival analysis.
+* [pysurvival](https://github.com/square/pysurvival) ![Github Stars](https://img.shields.io/github/stars/square/pysurvival.svg?style=social)
+ An open source python package for Survival Analysis modeling.
+* [scikit-survival](https://github.com/sebp/scikit-survival) ![Github Stars](https://img.shields.io/github/stars/sebp/scikit-survival.svg?style=social)
+ Survival analysis built on top of scikit-learn.
+
 ## Synthetic Control
 
 * [pysyncon](https://github.com/sdfordham/pysyncon) ![Github Stars](https://img.shields.io/github/stars/sdfordham/pysyncon.svg?style=social)
  Multiple Synthetic Control implementations.
+* [scpi](https://github.com/nppackages/scpi) ![Github Stars](https://img.shields.io/github/stars/nppackages/scpi.svg?style=social)
+ Provides Python, R and Stata implementations of estimation and inference procedures for synthetic control methods.
 * [SparseSC](https://github.com/microsoft/SparseSC) ![Github Stars](https://img.shields.io/github/stars/microsoft/SparseSC.svg?style=social)
  Sparse Synthetic Control Models in Python by Microsoft.
