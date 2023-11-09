@@ -53,11 +53,13 @@ All packages are Python based unless otherwise stated. We welcome contributions 
  Causal inference using Synthetic Control.
 * [tfcausalimpact](https://github.com/WillianFuks/tfcausalimpact) ![Github Stars](https://img.shields.io/github/stars/WillianFuks/tfcausalimpact.svg?style=social)
  Google's [CausalImpact](https://github.com/google/CausalImpact) Algorithm implemented on top of [TensorFlow Probability](https://github.com/tensorflow/probability).
+* [upliftml](https://github.com/bookingcom/upliftml) ![Github Stars](https://img.shields.io/github/stars/bookingcom/upliftml.svg?style=social)
+Scalable unconstrained and constrained uplift modeling from experimental data using PySpark and H20.
 
 ## Churn / CLV
 
 * [btyd](https://github.com/ColtAllen/btyd) ![Github Stars](https://img.shields.io/github/stars/ColtAllen/btyd.svg?style=social)
- Buy Till You Die and CLV statistical models in Python. 
+ Buy Till You Die and CLV statistical models in Python.
 * [lifetimes](https://github.com/CamDavidsonPilon/lifetimes) ![Github Stars](https://img.shields.io/github/stars/CamDavidsonPilon/lifetimes.svg?style=social)
  CLV and Churn modelling. Deprecated and incorporated into [pymc-marketing](https://github.com/pymc-labs/pymc-marketing).
 * [lucius-ltv](https://github.com/plexagon/lucius-ltv) ![Github Stars](https://img.shields.io/github/stars/plexagon/lucius-ltv.svg?style=social)
@@ -98,10 +100,12 @@ All packages are Python based unless otherwise stated. We welcome contributions 
 
 ## Personalisation / Segmentation
 
+* [amazon-denseclus](https://github.com/awslabs/amazon-denseclus) ![Github Stars](https://img.shields.io/github/stars/awslabs/amazon-denseclus.svg?style=social)
+Python module for clustering both categorical and numerical data using UMAP and HDBSCAN by Amazon.
 * [rfm](https://github.com/sonwanesuresh95/rfm) ![Github Stars](https://img.shields.io/github/stars/sonwanesuresh95/rfm.svg?style=social)
  RFM Analysis and Customer Segmentation.
 * [retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) ![Github Stars](https://img.shields.io/github/stars/retentioneering/retentioneering-tools.svg?style=social)
- Retentioneering: product analytics, data-driven customer journey map optimization, marketing analytics, web analytics, transaction analytics, graph visualization, and behavioral segmentation 
+ Retentioneering: product analytics, data-driven customer journey map optimization, marketing analytics, web analytics, transaction analytics, graph visualization, and behavioral segmentation
 
 ## Recommendation Systems
 
@@ -118,8 +122,10 @@ All packages are Python based unless otherwise stated. We welcome contributions 
 
 ## Time Series
 
+* [gluonts](https://github.com/awslabs/gluonts) ![Github Stars](https://img.shields.io/github/stars/awslabs/gluonts.svg?style=social)
+Probabilistic time series modeling, focusing on deep learning based models, based on PyTorch and MXNet.
 * [prophet](https://github.com/facebook/prophet) ![Github Stars](https://img.shields.io/github/stars/facebook/prophet.svg?style=social)
-  Additive time series modelling by Facebook.
+Additive time series modelling by Facebook.
 * [sktime](https://github.com/sktime/sktime) ![Github Stars](https://img.shields.io/github/stars/sktime/sktime.svg?style=social)
 A unified framework for ML with Time Eeries.
 * [statsforecast](https://github.com/Nixtla/statsforecast) ![Github Stars](https://img.shields.io/github/stars/Nixtla/statsforecast.svg?style=social)
@@ -144,3 +150,10 @@ A unified framework for ML with Time Eeries.
  Provides Python, R and Stata implementations of estimation and inference procedures for synthetic control methods.
 * [SparseSC](https://github.com/microsoft/SparseSC) ![Github Stars](https://img.shields.io/github/stars/microsoft/SparseSC.svg?style=social)
  Sparse Synthetic Control Models in Python by Microsoft.
+
+## Synthetic Data
+
+* [Decoy](https://github.com/EqualExperts/decoy) ![Github Stars](https://img.shields.io/github/stars/EqualExperts/decoy.svg?style=social)
+Synthetic Data Generator using DuckDB at its core.
+* [SDV](https://github.com/sdv-dev/SDV) ![Github Stars](https://img.shields.io/github/stars/sdv-dev/SDV.svg?style=social)
+Python library designed to be your one-stop shop for creating tabular synthetic data.
