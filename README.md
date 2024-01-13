@@ -55,6 +55,8 @@ All packages are Python based unless otherwise stated. We welcome contributions 
  Google's [CausalImpact](https://github.com/google/CausalImpact) Algorithm implemented on top of [TensorFlow Probability](https://github.com/tensorflow/probability).
 * [upliftml](https://github.com/bookingcom/upliftml) ![Github Stars](https://img.shields.io/github/stars/bookingcom/upliftml.svg?style=social)
 Scalable unconstrained and constrained uplift modeling from experimental data using PySpark and H20.
+* [scikit-uplift](https://github.com/maks-sh/scikit-uplift) ![Github Stars](https://img.shields.io/github/stars/maks-sh/scikit-uplift.svg?style=social)
+* Uplift modeling python package that provides fast sklearn-style models implementation, evaluation metrics and visualization tools.
 
 ## Churn / CLV
 
@@ -64,6 +66,10 @@ Scalable unconstrained and constrained uplift modeling from experimental data us
  CLV and Churn modelling. Deprecated and incorporated into [pymc-marketing](https://github.com/pymc-labs/pymc-marketing).
 * [lucius-ltv](https://github.com/plexagon/lucius-ltv) ![Github Stars](https://img.shields.io/github/stars/plexagon/lucius-ltv.svg?style=social)
  CLV for subscriptions.
+
+## Data
+* [gapandas4](https://github.com/practical-data-science/gapandas4) ![Github Stars](https://img.shields.io/github/stars/practical-data-science/gapandas4.svg?style=social)
+Python package for querying the Google Analytics Data API for GA4 and displaying the results in a Pandas dataframe.
 
 ## Econometrics
 
@@ -78,6 +84,8 @@ Scalable unconstrained and constrained uplift modeling from experimental data us
  Ad effectiveness through the design and analysis of randomized Geo Experiments by Google.
 * [matched_markets](https://github.com/google/matched_markets) ![Github Stars](https://img.shields.io/github/stars/google/matched_markets.svg?style=social)
  Time-Based regression matched markets approach for designing Geo Experiments by Google.
+* [GeoexperimentsResearch](https://github.com/google/GeoexperimentsResearch) ![Github Stars](https://img.shields.io/github/stars/facebookincubator/GeoLift.svg?style=social)
+(R) Open-source implementation of the geo experiment analysis methodology developed at Google (Archived)
 * [GeoLift](https://github.com/facebookincubator/GeoLift) ![Github Stars](https://img.shields.io/github/stars/facebookincubator/GeoLift.svg?style=social)
  Geo Experimentation methodology based on Synthetic Control Methods used to measure lift of ad campaigns by Facebook.
 
@@ -106,6 +114,8 @@ Python module for clustering both categorical and numerical data using UMAP and 
  RFM Analysis and Customer Segmentation.
 * [retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) ![Github Stars](https://img.shields.io/github/stars/retentioneering/retentioneering-tools.svg?style=social)
  Retentioneering: product analytics, data-driven customer journey map optimization, marketing analytics, web analytics, transaction analytics, graph visualization, and behavioral segmentation
+* [ecommercetools](https://github.com/practical-data-science/ecommercetools) ![Github Stars](https://img.shields.io/github/stars/practical-data-science/ecommercetools.svg?style=social)
+Data science toolkit for those working in technical ecommerce, marketing science, and technical seo and includes a wide range of features to aid analysis and model building. 
 
 ## Recommendation Systems
 
@@ -122,16 +132,32 @@ Python module for clustering both categorical and numerical data using UMAP and 
 
 ## Time Series
 
+* [darts](https://github.com/unit8co/darts) ![Github Stars](https://img.shields.io/github/stars/unit8co/darts.svg?style=social)
+Python library for user-friendly forecasting and anomaly detection on time series built using SKL conventions.
 * [gluonts](https://github.com/awslabs/gluonts) ![Github Stars](https://img.shields.io/github/stars/awslabs/gluonts.svg?style=social)
 Probabilistic time series modeling, focusing on deep learning based models, based on PyTorch and MXNet.
+* [neural_prophet](https://github.com/ourownstory/neural_prophet) ![Github Stars](https://img.shields.io/github/stars/ourownstory/neural_prophet.svg?style=social)
+Framework for interpretable time series forecasting built on PyTorch.
+* [orbit](https://github.com/uber/orbit) ![Github Stars](https://img.shields.io/github/stars/uber/orbit.svg?style=social)
+Python package for Bayesian time series forecasting and inference by Uber.
+* [pmdarima](https://github.com/alkaline-ml/pmdarima) ![Github Stars](https://img.shields.io/github/stars/alkaline-ml/pmdarima.svg?style=social)
+* Pmdarima is a statistical library designed to fill the void in Python's time series analysis capabilities.
 * [prophet](https://github.com/facebook/prophet) ![Github Stars](https://img.shields.io/github/stars/facebook/prophet.svg?style=social)
 Additive time series modelling by Facebook.
 * [sktime](https://github.com/sktime/sktime) ![Github Stars](https://img.shields.io/github/stars/sktime/sktime.svg?style=social)
 A unified framework for ML with Time Eeries.
 * [statsforecast](https://github.com/Nixtla/statsforecast) ![Github Stars](https://img.shields.io/github/stars/Nixtla/statsforecast.svg?style=social)
  Lightning ⚡️ fast forecasting with statistical and econometric models.
+* [stumpy](https://github.com/TDAmeritrade/stumpy) ![Github Stars](https://img.shields.io/github/stars/TDAmeritrade/stumpy.svg?style=social)
+STUMPY  computes something called the matrix profile, which is just an academic way of saying "for every subsequence automatically identify its corresponding nearest-neighbor"
 * [temporian](https://github.com/google/temporian) ![Github Stars](https://img.shields.io/github/stars/google/temporian.svg?style=social)
  Temporian is an open-source Python library for preprocessing ⚡ and feature engineering 🛠 temporal data 📈 for machine learning applications 🤖.
+* [tbats](https://github.com/intive-DataScience/tbats) ![Github Stars](https://img.shields.io/github/stars/intive-DataScience/tbats.svg?style=social)
+BATS and TBATS time series forecasting
+* [tsfresh](https://github.com/blue-yonder/tsfresh) ![Github Stars](https://img.shields.io/github/stars/blue-yonder/tsfresh.svg?style=social)
+Time Series Feature extraction based on scalable hypothesis tests.
+* [tslearn](https://github.com/tslearn-team/tslearn) ![Github Stars](https://img.shields.io/github/stars/tslearn-team/tslearn.svg?style=social)
+The machine learning toolkit for time series analysis in Python.
 
 ## Survival Analysis
 
