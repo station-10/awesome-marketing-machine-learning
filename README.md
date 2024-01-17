@@ -67,6 +67,16 @@ Scalable unconstrained and constrained uplift modeling from experimental data us
 * [lucius-ltv](https://github.com/plexagon/lucius-ltv) ![Github Stars](https://img.shields.io/github/stars/plexagon/lucius-ltv.svg?style=social)
  CLV for subscriptions.
 
+## Client Libraries
+* [google-ads-python](https://github.com/googleads/google-ads-python) ![Github Stars](https://img.shields.io/github/stars/googleads/google-ads-python.svg?style=social)
+  Python client library for the Google Ads API
+* [facebook-python-business-sdk](https://github.com/facebook/facebook-python-business-sdk) ![Github Stars](https://img.shields.io/github/stars/facebook/facebook-python-business-sdk.svg?style=social)
+  Facebook_business is a Python package that provides an interface between your Python application and Facebook's APIs within the Business SDK
+* [tiktok-business-api-sdk](https://github.com/tiktok/tiktok-business-api-sdk) ![Github Stars](https://img.shields.io/github/stars/tiktok/tiktok-business-api-sdk.svg?style=social)
+  The TikTok Business API SDK is a comprehensive suite of client libraries that can help our developers and partners to integrate with TikTok API for Business easily and faster in a standardized way
+
+
+
 ## Data
 * [gapandas4](https://github.com/practical-data-science/gapandas4) ![Github Stars](https://img.shields.io/github/stars/practical-data-science/gapandas4.svg?style=social)
 Python package for querying the Google Analytics Data API for GA4 and displaying the results in a Pandas dataframe.
